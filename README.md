@@ -1,2 +1,3 @@
 # DataScience
-This is First Reposatory
+This is First Repository
+Author - Mahesh Sawarkar
